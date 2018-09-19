@@ -1,0 +1,35 @@
+{
+    "title": "Grayson Quiz",
+    "genre": "Sports",
+    "type": "linear",
+    "questions": [
+        {
+            "prompt": "What is Grayson Allen's number?",
+            "answer": "Three",
+            "choice": [
+                "Three","Four","Yes","Five"
+            ]
+        },
+        {
+            "prompt": "What is his favorite color?",
+            "answer": "Carolina Blue",
+            "choice": [
+                "Green","Black","Duke Blue","Carolina Blue"
+            ]
+        },
+        {
+            "prompt": "What is his favorite movie",
+            "answer": "Vine Compilation #234",
+            "choice": [
+                "The Matrix","Titanic","Vine Compilation #234","Batman"
+            ]
+        },
+        {
+            "prompt": "What is his favorite singer",
+            "answer": "Bob",
+            "choice": [
+                "Beyonce","Maroon 5","Bob","Owen"
+            ]
+        }
+    ]
+}

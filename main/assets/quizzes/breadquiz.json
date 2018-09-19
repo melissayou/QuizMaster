@@ -1,0 +1,24 @@
+{
+  "title":"Bread Quiz",
+  "genre":"Bread",
+  "type": "personality",
+  "questions": [
+    {
+      "prompt": "What's your major",
+      "choice":["Computer Science", "Economics","Evolutionary Anthropology","Other"]
+    },
+    {
+      "prompt": "\"Hey, can you do me a favor and grjnkscoafeiooiasoi-\"",
+      "choice":["Huh?", "What?","Eh?","Uhhhhh"]
+    },
+    {
+      "prompt": "How old is your mom?",
+      "choice":["0-10", "11-90","91-92","93-600000"]
+    },
+    {
+      "prompt": "Pick a random number.",
+      "choice":["0", "1","2","3"]
+    }
+  ],
+  "results":["Whole Wheat", "Garlic Bread","Bagel", "Orange Peel"]
+}

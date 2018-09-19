@@ -1,0 +1,38 @@
+<?xml version= "1.0"  encoding= "utf-8" ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/quiz_main_page_linear_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="top|center_horizontal"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/quiz_title_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="QuizTitle" />
+
+    <TextView
+        android:id="@+id/complete_text_view"
+        android:layout_width="81dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_weight="1"
+        android:text="completed" />
+
+    <Button
+        android:id="@+id/start_quiz_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:text="start"></Button>
+    <Button
+        android:id="@+id/previous_result_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:text="Results"></Button>
+
+</LinearLayout>

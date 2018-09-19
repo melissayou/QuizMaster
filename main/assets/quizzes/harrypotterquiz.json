@@ -1,0 +1,20 @@
+{
+  "title":"Harry Potter House",
+  "genre":"Fantasy",
+  "type": "personality",
+  "questions": [
+    {
+      "prompt": "What personality best describes you",
+      "choice":["Confident", "Kind","Smart","Ambitious"]
+    },
+    {
+      "prompt": "What is your favorite ice cream topping?",
+      "choice":["Sprinkles", "Gummy worms","Chocolate syrup","None"]
+    },
+    {
+      "prompt": "If you could be reincarnated as an animal, you would be a what",
+      "choice":["Lion", "Badger","Raven","Serpent"]
+    }
+  ],
+  "results":["Gryffindor", "Hufflepuff","Ravenclaw", "Slytherin"]
+}
